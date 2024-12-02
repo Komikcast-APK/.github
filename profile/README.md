@@ -80,16 +80,23 @@ Komikcast APK is designed with the comic reader in mind. Here are the standout f
 
 To successfully and safely download the Komikcast APK app on the APKFYP platform, follow these steps:
 
-Step 1: Download the APK and OBB files
-Visit the APKFYP website and search for "Komikcast". Download both the APK and OBB files.
-Step 2: Allow Installation from Unknown Sources 
-Go to Settings, then tap on Security or Privacy, and switch on the option for Unknown Sources.
-Step 3: Install the APK
-Once downloaded, locate the APK file and open it to start the installation process.
-Step 4: Extract the OBB File
-Open your file manager, find the OBB file you downloaded, and extract it to the Android/obb directory on your device.
-Step 5: Launch the App
+**Step 1: Download the APK and OBB files**
 
+Visit the [APKFYP website](https://apkfyp.com/) and search for "Komikcast". Download both the APK and OBB files.
+
+**Step 2: Allow Installation from Unknown Sources** 
+
+Go to Settings, then tap on Security or Privacy, and switch on the option for Unknown Sources.
+
+**Step 3: Install the APK**
+
+Once downloaded, locate the APK file and open it to start the installation process.
+
+**Step 4: Extract the OBB File**
+
+Open your file manager, find the OBB file you downloaded, and extract it to the Android/obb directory on your device.
+
+**Step 5: Launch the App**
 
 ---
 
